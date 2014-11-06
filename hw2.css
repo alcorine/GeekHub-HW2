@@ -1,0 +1,25 @@
+h1 {text-align:center}
+  address   {
+  text-align:center;
+  }
+  p {
+  text-align:left;
+  }
+  p.org {
+  text-align:center;
+  font-weight:bolder;
+
+  }
+  p.allright {
+  text-align:right;
+  }
+  span.und {
+  text-decoration:underline;
+  }
+    .leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+   .fig {
+   text-align:center;
+   }
